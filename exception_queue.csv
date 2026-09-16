@@ -1,0 +1,194 @@
+record_id,episode_id,show_title,source,rule,detail,severity
+REC00024,TBBT-S1E8,The Big Bang Theory,metacritic,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00102,B99-S2E2,Brooklyn Nine-Nine,metacritic,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00156,GOT-S1E4,Game of Thrones,metacritic,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00170,GOT-S2E1,Game of Thrones,rotten_tomatoes,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00187,GOT-S2E7,Game of Thrones,imdb,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00223,OFC-S1E3,The Office,imdb,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00254,OFC-S2E5,The Office,rotten_tomatoes,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00285,OFC-S3E7,The Office,metacritic,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00312,BRBA-S1E8,Breaking Bad,metacritic,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00321,BRBA-S2E3,Breaking Bad,metacritic,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00372,PARKS-S1E4,Parks and Recreation,metacritic,MISSING_OR_INVALID_SCORE,raw_score is blank or not a valid number,High
+REC00013,TBBT-S1E5,The Big Bang Theory,imdb,SCORE_OUT_OF_RANGE,76.0 is outside the valid imdb range (0-10) - check for a wrong-scale entry,High
+REC00017,TBBT-S1E6,The Big Bang Theory,rotten_tomatoes,SCORE_OUT_OF_RANGE,150 is outside the valid rotten_tomatoes range (0-100) - check for a wrong-scale entry,High
+REC00084,B99-S1E4,Brooklyn 99,metacritic,SCORE_OUT_OF_RANGE,-5 is outside the valid metacritic range (0-100) - check for a wrong-scale entry,High
+REC00110,B99-S2E5,Brooklyn Nine-Nine,rotten_tomatoes,SCORE_OUT_OF_RANGE,-1 is outside the valid rotten_tomatoes range (0-100) - check for a wrong-scale entry,High
+REC00112,B99-S2E6,Brooklyn Nine-Nine,imdb,SCORE_OUT_OF_RANGE,-5 is outside the valid imdb range (0-10) - check for a wrong-scale entry,High
+REC00142,B99-S3E8,Brooklyn Nine-Nine,imdb,SCORE_OUT_OF_RANGE,70.0 is outside the valid imdb range (0-10) - check for a wrong-scale entry,High
+REC00154,GOT-S1E4,Game of Thrones,imdb,SCORE_OUT_OF_RANGE,61.0 is outside the valid imdb range (0-10) - check for a wrong-scale entry,High
+REC00328,BRBA-S2E6,Breaking Bad,imdb,SCORE_OUT_OF_RANGE,63.0 is outside the valid imdb range (0-10) - check for a wrong-scale entry,High
+REC00388,PARKS-S2E2,Parks and Recreation,imdb,SCORE_OUT_OF_RANGE,68.0 is outside the valid imdb range (0-10) - check for a wrong-scale entry,High
+REC00441,GOT-S3E1,Game of Thrones,imdb,SCORE_OUT_OF_RANGE,10.2 is outside the valid imdb range (0-10) - check for a wrong-scale entry,High
+REC00098,B99-S2E1,Brooklyn Nine-Nine,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'B99-S2E1' more than once,Medium
+REC00119,B99-S2E8,Brooklyn Nine-Nine,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'B99-S2E8' more than once,Medium
+REC00128,B99-S3E3,Brooklyn Nine-Nine,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'B99-S3E3' more than once,Medium
+REC00144,B99-S3E8,Brooklyn Nine-Nine,metacritic,DUPLICATE_SUBMISSION,Source 'metacritic' submitted a score for 'B99-S3E8' more than once,Medium
+REC00182,GOT-S2E5,Game of Thrones,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'GOT-S2E5' more than once,Medium
+REC00193,GOT-S3E1,Game of Thrones,imdb,DUPLICATE_SUBMISSION,Source 'imdb' submitted a score for 'GOT-S3E1' more than once,Medium
+REC00231,OFC-S1E5,The Office,metacritic,DUPLICATE_SUBMISSION,Source 'metacritic' submitted a score for 'OFC-S1E5' more than once,Medium
+REC00271,OFC-S3E3,The Office,imdb,DUPLICATE_SUBMISSION,Source 'imdb' submitted a score for 'OFC-S3E3' more than once,Medium
+REC00334,BRBA-S2E8,Breaking Bad,imdb,DUPLICATE_SUBMISSION,Source 'imdb' submitted a score for 'BRBA-S2E8' more than once,Medium
+REC00359,BRBA-S3E8,Breaking Bad,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'BRBA-S3E8' more than once,Medium
+REC00378,PARKS-S1E6,Parks and Recreation,metacritic,DUPLICATE_SUBMISSION,Source 'metacritic' submitted a score for 'PARKS-S1E6' more than once,Medium
+REC00397,PARKS-S2E5,Parks and Recreation,imdb,DUPLICATE_SUBMISSION,Source 'imdb' submitted a score for 'PARKS-S2E5' more than once,Medium
+REC00433,PARKS-S2E5,Parks and Recreation,imdb,DUPLICATE_SUBMISSION,Source 'imdb' submitted a score for 'PARKS-S2E5' more than once,Medium
+REC00434,B99-S2E8,Brooklyn Nine-Nine,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'B99-S2E8' more than once,Medium
+REC00435,BRBA-S2E8,Breaking Bad,imdb,DUPLICATE_SUBMISSION,Source 'imdb' submitted a score for 'BRBA-S2E8' more than once,Medium
+REC00436,OFC-S1E5,The Office,metacritic,DUPLICATE_SUBMISSION,Source 'metacritic' submitted a score for 'OFC-S1E5' more than once,Medium
+REC00437,B99-S3E3,Brooklyn Nine-Nine,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'B99-S3E3' more than once,Medium
+REC00438,PARKS-S1E6,Parks and Recreation,metacritic,DUPLICATE_SUBMISSION,Source 'metacritic' submitted a score for 'PARKS-S1E6' more than once,Medium
+REC00439,GOT-S2E5,Game of Thrones,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'GOT-S2E5' more than once,Medium
+REC00440,OFC-S3E3,The Office,imdb,DUPLICATE_SUBMISSION,Source 'imdb' submitted a score for 'OFC-S3E3' more than once,Medium
+REC00441,GOT-S3E1,Game of Thrones,imdb,DUPLICATE_SUBMISSION,Source 'imdb' submitted a score for 'GOT-S3E1' more than once,Medium
+REC00442,B99-S2E1,Brooklyn Nine-Nine,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'B99-S2E1' more than once,Medium
+REC00443,B99-S3E8,Brooklyn Nine-Nine,metacritic,DUPLICATE_SUBMISSION,Source 'metacritic' submitted a score for 'B99-S3E8' more than once,Medium
+REC00444,BRBA-S3E8,Breaking Bad,rotten_tomatoes,DUPLICATE_SUBMISSION,Source 'rotten_tomatoes' submitted a score for 'BRBA-S3E8' more than once,Medium
+REC00001,TBBT-S1E1,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00002,TBBT-S1E1,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00003,TBBT-S1E1,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00004,TBBT-S1E2,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00005,TBBT-S1E2,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00006,TBBT-S1E2,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00007,TBBT-S1E3,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00008,TBBT-S1E3,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00009,TBBT-S1E3,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00010,TBBT-S1E4,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00011,TBBT-S1E4,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00012,TBBT-S1E4,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00013,TBBT-S1E5,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00014,TBBT-S1E5,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00015,TBBT-S1E5,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00016,TBBT-S1E6,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00017,TBBT-S1E6,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00018,TBBT-S1E6,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00019,TBBT-S1E7,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00020,TBBT-S1E7,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00021,TBBT-S1E7,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00022,TBBT-S1E8,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00023,TBBT-S1E8,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00024,TBBT-S1E8,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00025,TBBT-S2E1,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00026,TBBT-S2E1,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00027,TBBT-S2E1,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00028,TBBT-S2E2,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00029,TBBT-S2E2,Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00030,TBBT-S2E2,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00031,TBBT-S2E3,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00032,TBBT-S2E3,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00033,TBBT-S2E3,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00034,TBBT-S2E4,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00035,TBBT-S2E4,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00036,TBBT-S2E4,the big bang theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00037,TBBT-S2E5,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00038,TBBT-S2E5,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00039,TBBT-S2E5,TBBT,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00040,TBBT-S2E6,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00041,TBBT-S2E6,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00042,TBBT-S2E6,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00043,TBBT-S2E7,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00044,TBBT-S2E7,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00045,TBBT-S2E7,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00046,TBBT-S2E8,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00047,TBBT-S2E8,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00048,TBBT-S2E8,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00049,TBBT-S3E1,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00050,TBBT-S3E1,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00051,TBBT-S3E1,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00052,TBBT-S3E2,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00053,TBBT-S3E2,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00054,TBBT-S3E2,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00055,TBBT-S3E3,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00056,TBBT-S3E3,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00057,TBBT-S3E3,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00058,TBBT-S3E4,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00059,TBBT-S3E4,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00060,TBBT-S3E4,Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00061,TBBT-S3E5,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00062,TBBT-S3E5,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00063,TBBT-S3E5,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00064,TBBT-S3E6,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00065,TBBT-S3E6,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00066,TBBT-S3E6,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00067,TBBT-S3E7,The Big Bang Theory,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00068,TBBT-S3E7,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00069,TBBT-S3E7,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00070,TBBT-S3E8,TBBT,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00071,TBBT-S3E8,The Big Bang Theory,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00072,TBBT-S3E8,The Big Bang Theory,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'TBBT' maps to multiple title spellings: ['Big Bang Theory', 'TBBT', 'The Big Bang Theory', 'the big bang theory']",Low
+REC00073,B99-S1E1,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00074,B99-S1E1,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00075,B99-S1E1,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00076,B99-S1E2,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00077,B99-S1E2,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00078,B99-S1E2,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00079,B99-S1E3,Brooklyn Nine Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00080,B99-S1E3,brooklyn nine-nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00081,B99-S1E3,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00082,B99-S1E4,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00083,B99-S1E4,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00084,B99-S1E4,Brooklyn 99,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00085,B99-S1E5,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00086,B99-S1E5,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00087,B99-S1E5,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00088,B99-S1E6,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00089,B99-S1E6,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00090,B99-S1E6,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00091,B99-S1E7,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00092,B99-S1E7,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00093,B99-S1E7,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00094,B99-S1E8,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00095,B99-S1E8,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00096,B99-S1E8,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00097,B99-S2E1,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00098,B99-S2E1,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00099,B99-S2E1,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00100,B99-S2E2,Brooklyn Nine Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00101,B99-S2E2,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00102,B99-S2E2,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00103,B99-S2E3,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00104,B99-S2E3,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00105,B99-S2E3,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00106,B99-S2E4,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00107,B99-S2E4,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00108,B99-S2E4,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00109,B99-S2E5,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00110,B99-S2E5,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00111,B99-S2E5,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00112,B99-S2E6,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00113,B99-S2E6,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00114,B99-S2E6,brooklyn nine-nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00115,B99-S2E7,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00116,B99-S2E7,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00117,B99-S2E7,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00118,B99-S2E8,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00119,B99-S2E8,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00120,B99-S2E8,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00121,B99-S3E1,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00122,B99-S3E1,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00123,B99-S3E1,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00124,B99-S3E2,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00125,B99-S3E2,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00126,B99-S3E2,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00127,B99-S3E3,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00128,B99-S3E3,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00129,B99-S3E3,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00130,B99-S3E4,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00131,B99-S3E4,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00132,B99-S3E4,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00133,B99-S3E5,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00134,B99-S3E5,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00135,B99-S3E5,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00136,B99-S3E6,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00137,B99-S3E6,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00138,B99-S3E6,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00139,B99-S3E7,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00140,B99-S3E7,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00141,B99-S3E7,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00142,B99-S3E8,Brooklyn Nine-Nine,imdb,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00143,B99-S3E8,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00144,B99-S3E8,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00434,B99-S2E8,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00437,B99-S3E3,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00442,B99-S2E1,Brooklyn Nine-Nine,rotten_tomatoes,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low
+REC00443,B99-S3E8,Brooklyn Nine-Nine,metacritic,INCONSISTENT_SHOW_TITLE,"Show ID 'B99' maps to multiple title spellings: ['Brooklyn 99', 'Brooklyn Nine Nine', 'Brooklyn Nine-Nine', 'brooklyn nine-nine']",Low

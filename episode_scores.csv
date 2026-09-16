@@ -1,0 +1,145 @@
+episode_id,show_title,season,episode,combined_score,sources_used
+B99-S1E1,Brooklyn Nine-Nine,1,1,74.7,3
+B99-S1E2,Brooklyn Nine-Nine,1,2,65.3,3
+B99-S1E3,Brooklyn Nine-Nine,1,3,75.3,3
+B99-S1E4,Brooklyn Nine-Nine,1,4,87.5,2
+B99-S1E5,Brooklyn Nine-Nine,1,5,72.0,3
+B99-S1E6,Brooklyn Nine-Nine,1,6,79.0,3
+B99-S1E7,Brooklyn Nine-Nine,1,7,79.7,3
+B99-S1E8,Brooklyn Nine-Nine,1,8,87.3,3
+B99-S2E1,Brooklyn Nine-Nine,2,1,87.7,3
+B99-S2E2,Brooklyn Nine-Nine,2,2,84.0,2
+B99-S2E3,Brooklyn Nine-Nine,2,3,81.7,3
+B99-S2E4,Brooklyn Nine-Nine,2,4,94.3,3
+B99-S2E5,Brooklyn Nine-Nine,2,5,64.0,2
+B99-S2E6,Brooklyn Nine-Nine,2,6,70.0,2
+B99-S2E7,Brooklyn Nine-Nine,2,7,75.7,3
+B99-S2E8,Brooklyn Nine-Nine,2,8,73.7,3
+B99-S3E1,Brooklyn Nine-Nine,3,1,80.7,3
+B99-S3E2,Brooklyn Nine-Nine,3,2,79.7,3
+B99-S3E3,Brooklyn Nine-Nine,3,3,77.0,3
+B99-S3E4,Brooklyn Nine-Nine,3,4,74.0,3
+B99-S3E5,Brooklyn Nine-Nine,3,5,76.3,3
+B99-S3E6,Brooklyn Nine-Nine,3,6,78.7,3
+B99-S3E7,Brooklyn Nine-Nine,3,7,77.3,3
+B99-S3E8,Brooklyn Nine-Nine,3,8,67.0,2
+BRBA-S1E1,Breaking Bad,1,1,74.3,3
+BRBA-S1E2,Breaking Bad,1,2,86.0,3
+BRBA-S1E3,Breaking Bad,1,3,85.0,3
+BRBA-S1E4,Breaking Bad,1,4,71.0,3
+BRBA-S1E5,Breaking Bad,1,5,86.0,3
+BRBA-S1E6,Breaking Bad,1,6,73.0,3
+BRBA-S1E7,Breaking Bad,1,7,73.7,3
+BRBA-S1E8,Breaking Bad,1,8,82.0,2
+BRBA-S2E1,Breaking Bad,2,1,76.7,3
+BRBA-S2E2,Breaking Bad,2,2,86.0,3
+BRBA-S2E3,Breaking Bad,2,3,78.5,2
+BRBA-S2E4,Breaking Bad,2,4,90.3,3
+BRBA-S2E5,Breaking Bad,2,5,83.7,3
+BRBA-S2E6,Breaking Bad,2,6,75.0,2
+BRBA-S2E7,Breaking Bad,2,7,74.0,3
+BRBA-S2E8,Breaking Bad,2,8,72.0,3
+BRBA-S3E1,Breaking Bad,3,1,76.3,3
+BRBA-S3E2,Breaking Bad,3,2,74.0,3
+BRBA-S3E3,Breaking Bad,3,3,72.3,3
+BRBA-S3E4,Breaking Bad,3,4,69.0,3
+BRBA-S3E5,Breaking Bad,3,5,75.7,3
+BRBA-S3E6,Breaking Bad,3,6,75.0,3
+BRBA-S3E7,Breaking Bad,3,7,77.3,3
+BRBA-S3E8,Breaking Bad,3,8,82.3,3
+GOT-S1E1,Game of Thrones,1,1,76.3,3
+GOT-S1E2,Game of Thrones,1,2,82.0,3
+GOT-S1E3,Game of Thrones,1,3,72.7,3
+GOT-S1E4,Game of Thrones,1,4,81.0,1
+GOT-S1E5,Game of Thrones,1,5,67.0,3
+GOT-S1E6,Game of Thrones,1,6,68.7,3
+GOT-S1E7,Game of Thrones,1,7,74.3,3
+GOT-S1E8,Game of Thrones,1,8,85.3,3
+GOT-S2E1,Game of Thrones,2,1,67.0,2
+GOT-S2E2,Game of Thrones,2,2,78.0,3
+GOT-S2E3,Game of Thrones,2,3,92.7,3
+GOT-S2E4,Game of Thrones,2,4,66.3,3
+GOT-S2E5,Game of Thrones,2,5,88.7,3
+GOT-S2E6,Game of Thrones,2,6,71.7,3
+GOT-S2E7,Game of Thrones,2,7,78.5,2
+GOT-S2E8,Game of Thrones,2,8,75.0,3
+GOT-S3E1,Game of Thrones,3,1,74.0,3
+GOT-S3E2,Game of Thrones,3,2,69.0,3
+GOT-S3E3,Game of Thrones,3,3,75.0,3
+GOT-S3E4,Game of Thrones,3,4,61.3,3
+GOT-S3E5,Game of Thrones,3,5,81.3,3
+GOT-S3E6,Game of Thrones,3,6,73.3,3
+GOT-S3E7,Game of Thrones,3,7,79.0,3
+GOT-S3E8,Game of Thrones,3,8,73.7,3
+OFC-S1E1,The Office,1,1,70.0,3
+OFC-S1E2,The Office,1,2,77.3,3
+OFC-S1E3,The Office,1,3,81.0,2
+OFC-S1E4,The Office,1,4,82.7,3
+OFC-S1E5,The Office,1,5,80.0,3
+OFC-S1E6,The Office,1,6,86.3,3
+OFC-S1E7,The Office,1,7,87.0,3
+OFC-S1E8,The Office,1,8,92.3,3
+OFC-S2E1,The Office,2,1,70.3,3
+OFC-S2E2,The Office,2,2,83.7,3
+OFC-S2E3,The Office,2,3,79.7,3
+OFC-S2E4,The Office,2,4,84.3,3
+OFC-S2E5,The Office,2,5,83.0,2
+OFC-S2E6,The Office,2,6,73.7,3
+OFC-S2E7,The Office,2,7,71.7,3
+OFC-S2E8,The Office,2,8,73.7,3
+OFC-S3E1,The Office,3,1,71.3,3
+OFC-S3E2,The Office,3,2,69.7,3
+OFC-S3E3,The Office,3,3,88.7,3
+OFC-S3E4,The Office,3,4,76.0,3
+OFC-S3E5,The Office,3,5,74.7,3
+OFC-S3E6,The Office,3,6,85.7,3
+OFC-S3E7,The Office,3,7,71.0,2
+OFC-S3E8,The Office,3,8,73.7,3
+PARKS-S1E1,Parks and Recreation,1,1,74.3,3
+PARKS-S1E2,Parks and Recreation,1,2,81.0,3
+PARKS-S1E3,Parks and Recreation,1,3,77.3,3
+PARKS-S1E4,Parks and Recreation,1,4,72.0,2
+PARKS-S1E5,Parks and Recreation,1,5,76.0,3
+PARKS-S1E6,Parks and Recreation,1,6,66.0,3
+PARKS-S1E7,Parks and Recreation,1,7,75.3,3
+PARKS-S1E8,Parks and Recreation,1,8,62.7,3
+PARKS-S2E1,Parks and Recreation,2,1,79.3,3
+PARKS-S2E2,Parks and Recreation,2,2,69.0,2
+PARKS-S2E3,Parks and Recreation,2,3,74.7,3
+PARKS-S2E4,Parks and Recreation,2,4,76.7,3
+PARKS-S2E5,Parks and Recreation,2,5,69.7,3
+PARKS-S2E6,Parks and Recreation,2,6,69.0,3
+PARKS-S2E7,Parks and Recreation,2,7,83.3,3
+PARKS-S2E8,Parks and Recreation,2,8,65.7,3
+PARKS-S3E1,Parks and Recreation,3,1,83.7,3
+PARKS-S3E2,Parks and Recreation,3,2,76.7,3
+PARKS-S3E3,Parks and Recreation,3,3,76.7,3
+PARKS-S3E4,Parks and Recreation,3,4,82.0,3
+PARKS-S3E5,Parks and Recreation,3,5,83.7,3
+PARKS-S3E6,Parks and Recreation,3,6,73.3,3
+PARKS-S3E7,Parks and Recreation,3,7,81.3,3
+PARKS-S3E8,Parks and Recreation,3,8,62.7,3
+TBBT-S1E1,The Big Bang Theory,1,1,85.3,3
+TBBT-S1E2,The Big Bang Theory,1,2,72.7,3
+TBBT-S1E3,The Big Bang Theory,1,3,83.0,3
+TBBT-S1E4,The Big Bang Theory,1,4,59.3,3
+TBBT-S1E5,The Big Bang Theory,1,5,76.5,2
+TBBT-S1E6,The Big Bang Theory,1,6,80.5,2
+TBBT-S1E7,The Big Bang Theory,1,7,70.3,3
+TBBT-S1E8,The Big Bang Theory,1,8,64.5,2
+TBBT-S2E1,The Big Bang Theory,2,1,73.7,3
+TBBT-S2E2,The Big Bang Theory,2,2,88.7,3
+TBBT-S2E3,The Big Bang Theory,2,3,72.7,3
+TBBT-S2E4,The Big Bang Theory,2,4,71.0,3
+TBBT-S2E5,The Big Bang Theory,2,5,78.7,3
+TBBT-S2E6,The Big Bang Theory,2,6,66.7,3
+TBBT-S2E7,The Big Bang Theory,2,7,77.7,3
+TBBT-S2E8,The Big Bang Theory,2,8,84.3,3
+TBBT-S3E1,The Big Bang Theory,3,1,73.7,3
+TBBT-S3E2,The Big Bang Theory,3,2,83.7,3
+TBBT-S3E3,The Big Bang Theory,3,3,80.3,3
+TBBT-S3E4,The Big Bang Theory,3,4,83.0,3
+TBBT-S3E5,The Big Bang Theory,3,5,79.7,3
+TBBT-S3E6,The Big Bang Theory,3,6,60.0,3
+TBBT-S3E7,The Big Bang Theory,3,7,83.7,3
+TBBT-S3E8,The Big Bang Theory,3,8,73.7,3

@@ -1,0 +1,445 @@
+record_id,episode_id,show_title,season,episode,source,air_date,raw_score
+REC00001,TBBT-S1E1,The Big Bang Theory,1,1,imdb,2019-11-07,8.1
+REC00002,TBBT-S1E1,The Big Bang Theory,1,1,rotten_tomatoes,2019-11-07,83.0
+REC00003,TBBT-S1E1,The Big Bang Theory,1,1,metacritic,2019-11-07,92.0
+REC00004,TBBT-S1E2,The Big Bang Theory,1,2,imdb,2022-09-09,8.0
+REC00005,TBBT-S1E2,The Big Bang Theory,1,2,rotten_tomatoes,2022-09-09,66.0
+REC00006,TBBT-S1E2,The Big Bang Theory,1,2,metacritic,2022-09-09,72.0
+REC00007,TBBT-S1E3,The Big Bang Theory,1,3,imdb,2022-09-09,9.4
+REC00008,TBBT-S1E3,The Big Bang Theory,1,3,rotten_tomatoes,2022-09-09,94.0
+REC00009,TBBT-S1E3,The Big Bang Theory,1,3,metacritic,2022-09-09,61.0
+REC00010,TBBT-S1E4,The Big Bang Theory,1,4,imdb,2021-02-26,6.3
+REC00011,TBBT-S1E4,The Big Bang Theory,1,4,rotten_tomatoes,2021-02-26,59.0
+REC00012,TBBT-S1E4,The Big Bang Theory,1,4,metacritic,2021-02-26,56.0
+REC00013,TBBT-S1E5,The Big Bang Theory,1,5,imdb,2023-05-17,76.0
+REC00014,TBBT-S1E5,The Big Bang Theory,1,5,rotten_tomatoes,2023-05-17,61.0
+REC00015,TBBT-S1E5,The Big Bang Theory,1,5,metacritic,2023-05-17,92.0
+REC00016,TBBT-S1E6,The Big Bang Theory,1,6,imdb,2020-06-03,8.3
+REC00017,TBBT-S1E6,The Big Bang Theory,1,6,rotten_tomatoes,2020-06-03,150
+REC00018,TBBT-S1E6,The Big Bang Theory,1,6,metacritic,2020-06-03,78.0
+REC00019,TBBT-S1E7,The Big Bang Theory,1,7,imdb,2023-04-29,7.1
+REC00020,TBBT-S1E7,The Big Bang Theory,1,7,rotten_tomatoes,2023-04-29,76.0
+REC00021,TBBT-S1E7,The Big Bang Theory,1,7,metacritic,2023-04-29,64.0
+REC00022,TBBT-S1E8,The Big Bang Theory,1,8,imdb,2023-10-01,6.6
+REC00023,TBBT-S1E8,The Big Bang Theory,1,8,rotten_tomatoes,2023-10-01,63.0
+REC00024,TBBT-S1E8,The Big Bang Theory,1,8,metacritic,2023-10-01,
+REC00025,TBBT-S2E1,The Big Bang Theory,2,1,imdb,2020-01-22,8.5
+REC00026,TBBT-S2E1,The Big Bang Theory,2,1,rotten_tomatoes,2020-01-22,79.0
+REC00027,TBBT-S2E1,The Big Bang Theory,2,1,metacritic,2020-01-22,57.0
+REC00028,TBBT-S2E2,The Big Bang Theory,2,2,imdb,2023-08-31,8.5
+REC00029,TBBT-S2E2,Big Bang Theory,2,2,rotten_tomatoes,2023-08-31,93.0
+REC00030,TBBT-S2E2,The Big Bang Theory,2,2,metacritic,2023-08-31,88.0
+REC00031,TBBT-S2E3,The Big Bang Theory,2,3,imdb,2023-12-01,8.8
+REC00032,TBBT-S2E3,The Big Bang Theory,2,3,rotten_tomatoes,2023-12-01,55.0
+REC00033,TBBT-S2E3,The Big Bang Theory,2,3,metacritic,2023-12-01,75.0
+REC00034,TBBT-S2E4,The Big Bang Theory,2,4,imdb,2020-08-24,6.2
+REC00035,TBBT-S2E4,The Big Bang Theory,2,4,rotten_tomatoes,2020-08-24,88.0
+REC00036,TBBT-S2E4,the big bang theory,2,4,metacritic,2020-08-24,63.0
+REC00037,TBBT-S2E5,The Big Bang Theory,2,5,imdb,2018-01-14,8.5
+REC00038,TBBT-S2E5,The Big Bang Theory,2,5,rotten_tomatoes,2018-01-14,66.0
+REC00039,TBBT-S2E5,TBBT,2,5,metacritic,2018-01-14,85.0
+REC00040,TBBT-S2E6,The Big Bang Theory,2,6,imdb,2018-02-27,7.1
+REC00041,TBBT-S2E6,The Big Bang Theory,2,6,rotten_tomatoes,2018-02-27,57.0
+REC00042,TBBT-S2E6,The Big Bang Theory,2,6,metacritic,2018-02-27,72.0
+REC00043,TBBT-S2E7,The Big Bang Theory,2,7,imdb,2022-02-28,7.1
+REC00044,TBBT-S2E7,The Big Bang Theory,2,7,rotten_tomatoes,2022-02-28,94.0
+REC00045,TBBT-S2E7,The Big Bang Theory,2,7,metacritic,2022-02-28,68.0
+REC00046,TBBT-S2E8,The Big Bang Theory,2,8,imdb,2022-10-20,7.8
+REC00047,TBBT-S2E8,The Big Bang Theory,2,8,rotten_tomatoes,2022-10-20,79.0
+REC00048,TBBT-S2E8,The Big Bang Theory,2,8,metacritic,2022-10-20,96.0
+REC00049,TBBT-S3E1,The Big Bang Theory,3,1,imdb,2018-10-11,6.3
+REC00050,TBBT-S3E1,The Big Bang Theory,3,1,rotten_tomatoes,2018-10-11,81.0
+REC00051,TBBT-S3E1,The Big Bang Theory,3,1,metacritic,2018-10-11,77.0
+REC00052,TBBT-S3E2,The Big Bang Theory,3,2,imdb,2019-08-17,8.6
+REC00053,TBBT-S3E2,The Big Bang Theory,3,2,rotten_tomatoes,2019-08-17,97.0
+REC00054,TBBT-S3E2,The Big Bang Theory,3,2,metacritic,2019-08-17,68.0
+REC00055,TBBT-S3E3,The Big Bang Theory,3,3,imdb,2020-08-09,8.4
+REC00056,TBBT-S3E3,The Big Bang Theory,3,3,rotten_tomatoes,2020-08-09,78.0
+REC00057,TBBT-S3E3,The Big Bang Theory,3,3,metacritic,2020-08-09,79.0
+REC00058,TBBT-S3E4,The Big Bang Theory,3,4,imdb,2020-08-11,6.2
+REC00059,TBBT-S3E4,The Big Bang Theory,3,4,rotten_tomatoes,2020-08-11,90.0
+REC00060,TBBT-S3E4,Big Bang Theory,3,4,metacritic,2020-08-11,97.0
+REC00061,TBBT-S3E5,The Big Bang Theory,3,5,imdb,2018-06-23,7.2
+REC00062,TBBT-S3E5,The Big Bang Theory,3,5,rotten_tomatoes,2018-06-23,69.0
+REC00063,TBBT-S3E5,The Big Bang Theory,3,5,metacritic,2018-06-23,98.0
+REC00064,TBBT-S3E6,The Big Bang Theory,3,6,imdb,2022-11-25,6.4
+REC00065,TBBT-S3E6,The Big Bang Theory,3,6,rotten_tomatoes,2022-11-25,58.0
+REC00066,TBBT-S3E6,The Big Bang Theory,3,6,metacritic,2022-11-25,58.0
+REC00067,TBBT-S3E7,The Big Bang Theory,3,7,imdb,2022-07-25,8.9
+REC00068,TBBT-S3E7,The Big Bang Theory,3,7,rotten_tomatoes,2022-07-25,88.0
+REC00069,TBBT-S3E7,The Big Bang Theory,3,7,metacritic,2022-07-25,74.0
+REC00070,TBBT-S3E8,TBBT,3,8,imdb,2022-12-15,8.2
+REC00071,TBBT-S3E8,The Big Bang Theory,3,8,rotten_tomatoes,2022-12-15,56.0
+REC00072,TBBT-S3E8,The Big Bang Theory,3,8,metacritic,2022-12-15,83.0
+REC00073,B99-S1E1,Brooklyn Nine-Nine,1,1,imdb,2018-05-20,7.5
+REC00074,B99-S1E1,Brooklyn Nine-Nine,1,1,rotten_tomatoes,2018-05-20,77.0
+REC00075,B99-S1E1,Brooklyn Nine-Nine,1,1,metacritic,2018-05-20,72.0
+REC00076,B99-S1E2,Brooklyn Nine-Nine,1,2,imdb,2021-09-09,7.4
+REC00077,B99-S1E2,Brooklyn Nine-Nine,1,2,rotten_tomatoes,2021-09-09,65.0
+REC00078,B99-S1E2,Brooklyn Nine-Nine,1,2,metacritic,2021-09-09,57.0
+REC00079,B99-S1E3,Brooklyn Nine Nine,1,3,imdb,2023-07-31,7.5
+REC00080,B99-S1E3,brooklyn nine-nine,1,3,rotten_tomatoes,2023-07-31,66.0
+REC00081,B99-S1E3,Brooklyn Nine-Nine,1,3,metacritic,2023-07-31,85.0
+REC00082,B99-S1E4,Brooklyn Nine-Nine,1,4,imdb,2019-04-20,8.9
+REC00083,B99-S1E4,Brooklyn Nine-Nine,1,4,rotten_tomatoes,2019-04-20,86.0
+REC00084,B99-S1E4,Brooklyn 99,1,4,metacritic,2019-04-20,-5
+REC00085,B99-S1E5,Brooklyn Nine-Nine,1,5,imdb,2022-02-18,6.8
+REC00086,B99-S1E5,Brooklyn Nine-Nine,1,5,rotten_tomatoes,2022-02-18,72.0
+REC00087,B99-S1E5,Brooklyn Nine-Nine,1,5,metacritic,2022-02-18,76.0
+REC00088,B99-S1E6,Brooklyn Nine-Nine,1,6,imdb,2018-04-06,8.2
+REC00089,B99-S1E6,Brooklyn Nine-Nine,1,6,rotten_tomatoes,2018-04-06,96.0
+REC00090,B99-S1E6,Brooklyn Nine-Nine,1,6,metacritic,2018-04-06,59.0
+REC00091,B99-S1E7,Brooklyn Nine-Nine,1,7,imdb,2019-09-27,7.7
+REC00092,B99-S1E7,Brooklyn Nine-Nine,1,7,rotten_tomatoes,2019-09-27,76.0
+REC00093,B99-S1E7,Brooklyn Nine-Nine,1,7,metacritic,2019-09-27,86.0
+REC00094,B99-S1E8,Brooklyn Nine-Nine,1,8,imdb,2018-12-29,9.1
+REC00095,B99-S1E8,Brooklyn Nine-Nine,1,8,rotten_tomatoes,2018-12-29,89.0
+REC00096,B99-S1E8,Brooklyn Nine-Nine,1,8,metacritic,2018-12-29,82.0
+REC00097,B99-S2E1,Brooklyn Nine-Nine,2,1,imdb,2019-05-27,8.7
+REC00098,B99-S2E1,Brooklyn Nine-Nine,2,1,rotten_tomatoes,2019-05-27,84.0
+REC00099,B99-S2E1,Brooklyn Nine-Nine,2,1,metacritic,2019-05-27,92.0
+REC00100,B99-S2E2,Brooklyn Nine Nine,2,2,imdb,2018-03-22,8.4
+REC00101,B99-S2E2,Brooklyn Nine-Nine,2,2,rotten_tomatoes,2018-03-22,84.0
+REC00102,B99-S2E2,Brooklyn Nine-Nine,2,2,metacritic,2018-03-22,
+REC00103,B99-S2E3,Brooklyn Nine-Nine,2,3,imdb,2023-01-31,9.2
+REC00104,B99-S2E3,Brooklyn Nine-Nine,2,3,rotten_tomatoes,2023-01-31,72.0
+REC00105,B99-S2E3,Brooklyn Nine-Nine,2,3,metacritic,2023-01-31,81.0
+REC00106,B99-S2E4,Brooklyn Nine-Nine,2,4,imdb,2019-10-22,8.9
+REC00107,B99-S2E4,Brooklyn Nine-Nine,2,4,rotten_tomatoes,2019-10-22,96.0
+REC00108,B99-S2E4,Brooklyn Nine-Nine,2,4,metacritic,2019-10-22,98.0
+REC00109,B99-S2E5,Brooklyn Nine-Nine,2,5,imdb,2021-11-05,6.0
+REC00110,B99-S2E5,Brooklyn Nine-Nine,2,5,rotten_tomatoes,2021-11-05,-1
+REC00111,B99-S2E5,Brooklyn Nine-Nine,2,5,metacritic,2021-11-05,68.0
+REC00112,B99-S2E6,Brooklyn Nine-Nine,2,6,imdb,2022-07-02,-5
+REC00113,B99-S2E6,Brooklyn Nine-Nine,2,6,rotten_tomatoes,2022-07-02,61.0
+REC00114,B99-S2E6,brooklyn nine-nine,2,6,metacritic,2022-07-02,79.0
+REC00115,B99-S2E7,Brooklyn Nine-Nine,2,7,imdb,2023-06-09,6.3
+REC00116,B99-S2E7,Brooklyn Nine-Nine,2,7,rotten_tomatoes,2023-06-09,68.0
+REC00117,B99-S2E7,Brooklyn Nine-Nine,2,7,metacritic,2023-06-09,96.0
+REC00118,B99-S2E8,Brooklyn Nine-Nine,2,8,imdb,2019-09-11,8.6
+REC00119,B99-S2E8,Brooklyn Nine-Nine,2,8,rotten_tomatoes,2019-09-11,75.0
+REC00120,B99-S2E8,Brooklyn Nine-Nine,2,8,metacritic,2019-09-11,60.0
+REC00121,B99-S3E1,Brooklyn Nine-Nine,3,1,imdb,2020-02-05,9.3
+REC00122,B99-S3E1,Brooklyn Nine-Nine,3,1,rotten_tomatoes,2020-02-05,85.0
+REC00123,B99-S3E1,Brooklyn Nine-Nine,3,1,metacritic,2020-02-05,64.0
+REC00124,B99-S3E2,Brooklyn Nine-Nine,3,2,imdb,2018-06-02,7.2
+REC00125,B99-S3E2,Brooklyn Nine-Nine,3,2,rotten_tomatoes,2018-06-02,83.0
+REC00126,B99-S3E2,Brooklyn Nine-Nine,3,2,metacritic,2018-06-02,84.0
+REC00127,B99-S3E3,Brooklyn Nine-Nine,3,3,imdb,2023-04-09,6.9
+REC00128,B99-S3E3,Brooklyn Nine-Nine,3,3,rotten_tomatoes,2023-04-09,96.0
+REC00129,B99-S3E3,Brooklyn Nine-Nine,3,3,metacritic,2023-04-09,69.0
+REC00130,B99-S3E4,Brooklyn Nine-Nine,3,4,imdb,2020-08-20,6.9
+REC00131,B99-S3E4,Brooklyn Nine-Nine,3,4,rotten_tomatoes,2020-08-20,91.0
+REC00132,B99-S3E4,Brooklyn Nine-Nine,3,4,metacritic,2020-08-20,62.0
+REC00133,B99-S3E5,Brooklyn Nine-Nine,3,5,imdb,2018-11-02,8.4
+REC00134,B99-S3E5,Brooklyn Nine-Nine,3,5,rotten_tomatoes,2018-11-02,64.0
+REC00135,B99-S3E5,Brooklyn Nine-Nine,3,5,metacritic,2018-11-02,81.0
+REC00136,B99-S3E6,Brooklyn Nine-Nine,3,6,imdb,2020-03-19,7.0
+REC00137,B99-S3E6,Brooklyn Nine-Nine,3,6,rotten_tomatoes,2020-03-19,71.0
+REC00138,B99-S3E6,Brooklyn Nine-Nine,3,6,metacritic,2020-03-19,95.0
+REC00139,B99-S3E7,Brooklyn Nine-Nine,3,7,imdb,2020-05-04,7.6
+REC00140,B99-S3E7,Brooklyn Nine-Nine,3,7,rotten_tomatoes,2020-05-04,74.0
+REC00141,B99-S3E7,Brooklyn Nine-Nine,3,7,metacritic,2020-05-04,82.0
+REC00142,B99-S3E8,Brooklyn Nine-Nine,3,8,imdb,2018-10-18,70.0
+REC00143,B99-S3E8,Brooklyn Nine-Nine,3,8,rotten_tomatoes,2018-10-18,62.0
+REC00144,B99-S3E8,Brooklyn Nine-Nine,3,8,metacritic,2018-10-18,72.0
+REC00145,GOT-S1E1,Game of Thrones,1,1,imdb,2019-05-17,7.0
+REC00146,GOT-S1E1,Game of Thrones,1,1,rotten_tomatoes,2019-05-17,63.0
+REC00147,GOT-S1E1,Game of Thrones,1,1,metacritic,2019-05-17,96.0
+REC00148,GOT-S1E2,Game of Thrones,1,2,imdb,2023-05-06,6.1
+REC00149,GOT-S1E2,Game of Thrones,1,2,rotten_tomatoes,2023-05-06,90.0
+REC00150,GOT-S1E2,Game of Thrones,1,2,metacritic,2023-05-06,95.0
+REC00151,GOT-S1E3,Game of Thrones,1,3,imdb,2022-05-09,8.5
+REC00152,GOT-S1E3,Game of Thrones,1,3,rotten_tomatoes,2022-05-09,56.0
+REC00153,GOT-S1E3,Game of Thrones,1,3,metacritic,2022-05-09,77.0
+REC00154,GOT-S1E4,Game of Thrones,1,4,imdb,2020-04-03,61.0
+REC00155,GOT-S1E4,Game of Thrones,1,4,rotten_tomatoes,2020-04-03,81.0
+REC00156,GOT-S1E4,Game of Thrones,1,4,metacritic,2020-04-03,
+REC00157,GOT-S1E5,Game of Thrones,1,5,imdb,2021-10-29,6.8
+REC00158,GOT-S1E5,Game of Thrones,1,5,rotten_tomatoes,2021-10-29,55.0
+REC00159,GOT-S1E5,Game of Thrones,1,5,metacritic,2021-10-29,78.0
+REC00160,GOT-S1E6,Game of Thrones,1,6,imdb,2019-08-22,6.3
+REC00161,GOT-S1E6,Game of Thrones,1,6,rotten_tomatoes,2019-08-22,68.0
+REC00162,GOT-S1E6,Game of Thrones,1,6,metacritic,2019-08-22,75.0
+REC00163,GOT-S1E7,Game of Thrones,1,7,imdb,2022-08-05,9.1
+REC00164,GOT-S1E7,Game of Thrones,1,7,rotten_tomatoes,2022-08-05,71.0
+REC00165,GOT-S1E7,Game of Thrones,1,7,metacritic,2022-08-05,61.0
+REC00166,GOT-S1E8,Game of Thrones,1,8,imdb,2021-04-10,8.8
+REC00167,GOT-S1E8,Game of Thrones,1,8,rotten_tomatoes,2021-04-10,90.0
+REC00168,GOT-S1E8,Game of Thrones,1,8,metacritic,2021-04-10,78.0
+REC00169,GOT-S2E1,Game of Thrones,2,1,imdb,2022-02-04,6.2
+REC00170,GOT-S2E1,Game of Thrones,2,1,rotten_tomatoes,2022-02-04,n/a
+REC00171,GOT-S2E1,Game of Thrones,2,1,metacritic,2022-02-04,72.0
+REC00172,GOT-S2E2,Game of Thrones,2,2,imdb,2023-01-23,7.9
+REC00173,GOT-S2E2,Game of Thrones,2,2,rotten_tomatoes,2023-01-23,65.0
+REC00174,GOT-S2E2,Game of Thrones,2,2,metacritic,2023-01-23,90.0
+REC00175,GOT-S2E3,Game of Thrones,2,3,imdb,2023-08-16,9.0
+REC00176,GOT-S2E3,Game of Thrones,2,3,rotten_tomatoes,2023-08-16,95.0
+REC00177,GOT-S2E3,Game of Thrones,2,3,metacritic,2023-08-16,93.0
+REC00178,GOT-S2E4,Game of Thrones,2,4,imdb,2022-04-30,6.1
+REC00179,GOT-S2E4,Game of Thrones,2,4,rotten_tomatoes,2022-04-30,80.0
+REC00180,GOT-S2E4,Game of Thrones,2,4,metacritic,2022-04-30,58.0
+REC00181,GOT-S2E5,Game of Thrones,2,5,imdb,2021-07-26,9.1
+REC00182,GOT-S2E5,Game of Thrones,2,5,rotten_tomatoes,2021-07-26,87.0
+REC00183,GOT-S2E5,Game of Thrones,2,5,metacritic,2021-07-26,88.0
+REC00184,GOT-S2E6,Game of Thrones,2,6,imdb,2023-06-08,6.7
+REC00185,GOT-S2E6,Game of Thrones,2,6,rotten_tomatoes,2023-06-08,58.0
+REC00186,GOT-S2E6,Game of Thrones,2,6,metacritic,2023-06-08,90.0
+REC00187,GOT-S2E7,Game of Thrones,2,7,imdb,2022-05-03,
+REC00188,GOT-S2E7,Game of Thrones,2,7,rotten_tomatoes,2022-05-03,82.0
+REC00189,GOT-S2E7,Game of Thrones,2,7,metacritic,2022-05-03,75.0
+REC00190,GOT-S2E8,Game of Thrones,2,8,imdb,2020-12-24,8.8
+REC00191,GOT-S2E8,Game of Thrones,2,8,rotten_tomatoes,2020-12-24,70.0
+REC00192,GOT-S2E8,Game of Thrones,2,8,metacritic,2020-12-24,67.0
+REC00193,GOT-S3E1,Game of Thrones,3,1,imdb,2018-04-20,7.2
+REC00194,GOT-S3E1,Game of Thrones,3,1,rotten_tomatoes,2018-04-20,68.0
+REC00195,GOT-S3E1,Game of Thrones,3,1,metacritic,2018-04-20,82.0
+REC00196,GOT-S3E2,Game of Thrones,3,2,imdb,2019-01-18,9.1
+REC00197,GOT-S3E2,Game of Thrones,3,2,rotten_tomatoes,2019-01-18,58.0
+REC00198,GOT-S3E2,Game of Thrones,3,2,metacritic,2019-01-18,58.0
+REC00199,GOT-S3E3,Game of Thrones,3,3,imdb,2019-10-14,7.8
+REC00200,GOT-S3E3,Game of Thrones,3,3,rotten_tomatoes,2019-10-14,84.0
+REC00201,GOT-S3E3,Game of Thrones,3,3,metacritic,2019-10-14,63.0
+REC00202,GOT-S3E4,Game of Thrones,3,4,imdb,2023-07-25,6.9
+REC00203,GOT-S3E4,Game of Thrones,3,4,rotten_tomatoes,2023-07-25,58.0
+REC00204,GOT-S3E4,Game of Thrones,3,4,metacritic,2023-07-25,57.0
+REC00205,GOT-S3E5,Game of Thrones,3,5,imdb,2018-01-12,7.7
+REC00206,GOT-S3E5,Game of Thrones,3,5,rotten_tomatoes,2018-01-12,84.0
+REC00207,GOT-S3E5,Game of Thrones,3,5,metacritic,2018-01-12,83.0
+REC00208,GOT-S3E6,Game of Thrones,3,6,imdb,2023-07-07,6.6
+REC00209,GOT-S3E6,Game of Thrones,3,6,rotten_tomatoes,2023-07-07,59.0
+REC00210,GOT-S3E6,Game of Thrones,3,6,metacritic,2023-07-07,95.0
+REC00211,GOT-S3E7,Game of Thrones,3,7,imdb,2018-10-15,7.9
+REC00212,GOT-S3E7,Game of Thrones,3,7,rotten_tomatoes,2018-10-15,73.0
+REC00213,GOT-S3E7,Game of Thrones,3,7,metacritic,2018-10-15,85.0
+REC00214,GOT-S3E8,Game of Thrones,3,8,imdb,2023-11-09,8.5
+REC00215,GOT-S3E8,Game of Thrones,3,8,rotten_tomatoes,2023-11-09,78.0
+REC00216,GOT-S3E8,Game of Thrones,3,8,metacritic,2023-11-09,58.0
+REC00217,OFC-S1E1,The Office,1,1,imdb,2020-06-28,8.9
+REC00218,OFC-S1E1,The Office,1,1,rotten_tomatoes,2020-06-28,64.0
+REC00219,OFC-S1E1,The Office,1,1,metacritic,2020-06-28,57.0
+REC00220,OFC-S1E2,The Office,1,2,imdb,2021-07-29,7.2
+REC00221,OFC-S1E2,The Office,1,2,rotten_tomatoes,2021-07-29,78.0
+REC00222,OFC-S1E2,The Office,1,2,metacritic,2021-07-29,82.0
+REC00223,OFC-S1E3,The Office,1,3,imdb,2019-04-07,n/a
+REC00224,OFC-S1E3,The Office,1,3,rotten_tomatoes,2019-04-07,86.0
+REC00225,OFC-S1E3,The Office,1,3,metacritic,2019-04-07,76.0
+REC00226,OFC-S1E4,The Office,1,4,imdb,2020-01-11,6.6
+REC00227,OFC-S1E4,The Office,1,4,rotten_tomatoes,2020-01-11,92.0
+REC00228,OFC-S1E4,The Office,1,4,metacritic,2020-01-11,90.0
+REC00229,OFC-S1E5,The Office,1,5,imdb,2019-11-28,9.2
+REC00230,OFC-S1E5,The Office,1,5,rotten_tomatoes,2019-11-28,84.0
+REC00231,OFC-S1E5,The Office,1,5,metacritic,2019-11-28,64.0
+REC00232,OFC-S1E6,The Office,1,6,imdb,2021-11-27,8.7
+REC00233,OFC-S1E6,The Office,1,6,rotten_tomatoes,2021-11-27,94.0
+REC00234,OFC-S1E6,The Office,1,6,metacritic,2021-11-27,78.0
+REC00235,OFC-S1E7,The Office,1,7,imdb,2021-09-23,9.2
+REC00236,OFC-S1E7,The Office,1,7,rotten_tomatoes,2021-09-23,97.0
+REC00237,OFC-S1E7,The Office,1,7,metacritic,2021-09-23,72.0
+REC00238,OFC-S1E8,The Office,1,8,imdb,2021-11-20,9.3
+REC00239,OFC-S1E8,The Office,1,8,rotten_tomatoes,2021-11-20,95.0
+REC00240,OFC-S1E8,The Office,1,8,metacritic,2021-11-20,89.0
+REC00241,OFC-S2E1,The Office,2,1,imdb,2021-06-09,6.0
+REC00242,OFC-S2E1,The Office,2,1,rotten_tomatoes,2021-06-09,70.0
+REC00243,OFC-S2E1,The Office,2,1,metacritic,2021-06-09,81.0
+REC00244,OFC-S2E2,The Office,2,2,imdb,2020-10-03,8.1
+REC00245,OFC-S2E2,The Office,2,2,rotten_tomatoes,2020-10-03,87.0
+REC00246,OFC-S2E2,The Office,2,2,metacritic,2020-10-03,83.0
+REC00247,OFC-S2E3,The Office,2,3,imdb,2019-02-28,6.6
+REC00248,OFC-S2E3,The Office,2,3,rotten_tomatoes,2019-02-28,95.0
+REC00249,OFC-S2E3,The Office,2,3,metacritic,2019-02-28,78.0
+REC00250,OFC-S2E4,The Office,2,4,imdb,2019-11-22,9.1
+REC00251,OFC-S2E4,The Office,2,4,rotten_tomatoes,2019-11-22,64.0
+REC00252,OFC-S2E4,The Office,2,4,metacritic,2019-11-22,98.0
+REC00253,OFC-S2E5,The Office,2,5,imdb,2018-09-26,7.9
+REC00254,OFC-S2E5,The Office,2,5,rotten_tomatoes,2018-09-26,
+REC00255,OFC-S2E5,The Office,2,5,metacritic,2018-09-26,87.0
+REC00256,OFC-S2E6,The Office,2,6,imdb,2019-12-14,9.1
+REC00257,OFC-S2E6,The Office,2,6,rotten_tomatoes,2019-12-14,71.0
+REC00258,OFC-S2E6,The Office,2,6,metacritic,2019-12-14,59.0
+REC00259,OFC-S2E7,The Office,2,7,imdb,2022-10-23,7.4
+REC00260,OFC-S2E7,The Office,2,7,rotten_tomatoes,2022-10-23,63.0
+REC00261,OFC-S2E7,The Office,2,7,metacritic,2022-10-23,78.0
+REC00262,OFC-S2E8,The Office,2,8,imdb,2022-03-16,8.9
+REC00263,OFC-S2E8,The Office,2,8,rotten_tomatoes,2022-03-16,71.0
+REC00264,OFC-S2E8,The Office,2,8,metacritic,2022-03-16,61.0
+REC00265,OFC-S3E1,The Office,3,1,imdb,2019-10-17,6.1
+REC00266,OFC-S3E1,The Office,3,1,rotten_tomatoes,2019-10-17,73.0
+REC00267,OFC-S3E1,The Office,3,1,metacritic,2019-10-17,80.0
+REC00268,OFC-S3E2,The Office,3,2,imdb,2018-05-31,6.1
+REC00269,OFC-S3E2,The Office,3,2,rotten_tomatoes,2018-05-31,84.0
+REC00270,OFC-S3E2,The Office,3,2,metacritic,2018-05-31,64.0
+REC00271,OFC-S3E3,The Office,3,3,imdb,2023-10-30,6.4
+REC00272,OFC-S3E3,The Office,3,3,rotten_tomatoes,2023-10-30,95.0
+REC00273,OFC-S3E3,The Office,3,3,metacritic,2023-10-30,77.0
+REC00274,OFC-S3E4,The Office,3,4,imdb,2020-09-16,9.1
+REC00275,OFC-S3E4,The Office,3,4,rotten_tomatoes,2020-09-16,77.0
+REC00276,OFC-S3E4,The Office,3,4,metacritic,2020-09-16,60.0
+REC00277,OFC-S3E5,The Office,3,5,imdb,2022-07-26,6.8
+REC00278,OFC-S3E5,The Office,3,5,rotten_tomatoes,2022-07-26,73.0
+REC00279,OFC-S3E5,The Office,3,5,metacritic,2022-07-26,83.0
+REC00280,OFC-S3E6,The Office,3,6,imdb,2019-10-31,8.7
+REC00281,OFC-S3E6,The Office,3,6,rotten_tomatoes,2019-10-31,87.0
+REC00282,OFC-S3E6,The Office,3,6,metacritic,2019-10-31,83.0
+REC00283,OFC-S3E7,The Office,3,7,imdb,2018-02-28,6.9
+REC00284,OFC-S3E7,The Office,3,7,rotten_tomatoes,2018-02-28,73.0
+REC00285,OFC-S3E7,The Office,3,7,metacritic,2018-02-28,
+REC00286,OFC-S3E8,The Office,3,8,imdb,2021-11-20,7.7
+REC00287,OFC-S3E8,The Office,3,8,rotten_tomatoes,2021-11-20,66.0
+REC00288,OFC-S3E8,The Office,3,8,metacritic,2021-11-20,78.0
+REC00289,BRBA-S1E1,Breaking Bad,1,1,imdb,2023-07-04,7.6
+REC00290,BRBA-S1E1,Breaking Bad,1,1,rotten_tomatoes,2023-07-04,57.0
+REC00291,BRBA-S1E1,Breaking Bad,1,1,metacritic,2023-07-04,90.0
+REC00292,BRBA-S1E2,Breaking Bad,1,2,imdb,2023-09-05,8.1
+REC00293,BRBA-S1E2,Breaking Bad,1,2,rotten_tomatoes,2023-09-05,90.0
+REC00294,BRBA-S1E2,Breaking Bad,1,2,metacritic,2023-09-05,87.0
+REC00295,BRBA-S1E3,Breaking Bad,1,3,imdb,2022-03-19,8.6
+REC00296,BRBA-S1E3,Breaking Bad,1,3,rotten_tomatoes,2022-03-19,98.0
+REC00297,BRBA-S1E3,Breaking Bad,1,3,metacritic,2022-03-19,71.0
+REC00298,BRBA-S1E4,Breaking Bad,1,4,imdb,2020-10-09,7.4
+REC00299,BRBA-S1E4,Breaking Bad,1,4,rotten_tomatoes,2020-10-09,55.0
+REC00300,BRBA-S1E4,Breaking Bad,1,4,metacritic,2020-10-09,84.0
+REC00301,BRBA-S1E5,Breaking Bad,1,5,imdb,2020-10-04,8.0
+REC00302,BRBA-S1E5,Breaking Bad,1,5,rotten_tomatoes,2020-10-04,80.0
+REC00303,BRBA-S1E5,Breaking Bad,1,5,metacritic,2020-10-04,98.0
+REC00304,BRBA-S1E6,Breaking Bad,1,6,imdb,2019-10-27,6.7
+REC00305,BRBA-S1E6,Breaking Bad,1,6,rotten_tomatoes,2019-10-27,65.0
+REC00306,BRBA-S1E6,Breaking Bad,1,6,metacritic,2019-10-27,87.0
+REC00307,BRBA-S1E7,Breaking Bad,1,7,imdb,2018-10-11,8.8
+REC00308,BRBA-S1E7,Breaking Bad,1,7,rotten_tomatoes,2018-10-11,76.0
+REC00309,BRBA-S1E7,Breaking Bad,1,7,metacritic,2018-10-11,57.0
+REC00310,BRBA-S1E8,Breaking Bad,1,8,imdb,2022-12-05,7.3
+REC00311,BRBA-S1E8,Breaking Bad,1,8,rotten_tomatoes,2022-12-05,91.0
+REC00312,BRBA-S1E8,Breaking Bad,1,8,metacritic,2022-12-05,n/a
+REC00313,BRBA-S2E1,Breaking Bad,2,1,imdb,2022-07-27,7.6
+REC00314,BRBA-S2E1,Breaking Bad,2,1,rotten_tomatoes,2022-07-27,72.0
+REC00315,BRBA-S2E1,Breaking Bad,2,1,metacritic,2022-07-27,82.0
+REC00316,BRBA-S2E2,Breaking Bad,2,2,imdb,2023-06-03,8.1
+REC00317,BRBA-S2E2,Breaking Bad,2,2,rotten_tomatoes,2023-06-03,85.0
+REC00318,BRBA-S2E2,Breaking Bad,2,2,metacritic,2023-06-03,92.0
+REC00319,BRBA-S2E3,Breaking Bad,2,3,imdb,2018-08-24,8.6
+REC00320,BRBA-S2E3,Breaking Bad,2,3,rotten_tomatoes,2018-08-24,71.0
+REC00321,BRBA-S2E3,Breaking Bad,2,3,metacritic,2018-08-24,
+REC00322,BRBA-S2E4,Breaking Bad,2,4,imdb,2021-03-25,8.7
+REC00323,BRBA-S2E4,Breaking Bad,2,4,rotten_tomatoes,2021-03-25,89.0
+REC00324,BRBA-S2E4,Breaking Bad,2,4,metacritic,2021-03-25,95.0
+REC00325,BRBA-S2E5,Breaking Bad,2,5,imdb,2018-08-02,6.7
+REC00326,BRBA-S2E5,Breaking Bad,2,5,rotten_tomatoes,2018-08-02,91.0
+REC00327,BRBA-S2E5,Breaking Bad,2,5,metacritic,2018-08-02,93.0
+REC00328,BRBA-S2E6,Breaking Bad,2,6,imdb,2020-11-22,63.0
+REC00329,BRBA-S2E6,Breaking Bad,2,6,rotten_tomatoes,2020-11-22,68.0
+REC00330,BRBA-S2E6,Breaking Bad,2,6,metacritic,2020-11-22,82.0
+REC00331,BRBA-S2E7,Breaking Bad,2,7,imdb,2021-04-02,6.5
+REC00332,BRBA-S2E7,Breaking Bad,2,7,rotten_tomatoes,2021-04-02,91.0
+REC00333,BRBA-S2E7,Breaking Bad,2,7,metacritic,2021-04-02,66.0
+REC00334,BRBA-S2E8,Breaking Bad,2,8,imdb,2018-05-23,8.4
+REC00335,BRBA-S2E8,Breaking Bad,2,8,rotten_tomatoes,2018-05-23,68.0
+REC00336,BRBA-S2E8,Breaking Bad,2,8,metacritic,2018-05-23,64.0
+REC00337,BRBA-S3E1,Breaking Bad,3,1,imdb,2022-09-15,6.7
+REC00338,BRBA-S3E1,Breaking Bad,3,1,rotten_tomatoes,2022-09-15,76.0
+REC00339,BRBA-S3E1,Breaking Bad,3,1,metacritic,2022-09-15,86.0
+REC00340,BRBA-S3E2,Breaking Bad,3,2,imdb,2020-10-15,6.8
+REC00341,BRBA-S3E2,Breaking Bad,3,2,rotten_tomatoes,2020-10-15,85.0
+REC00342,BRBA-S3E2,Breaking Bad,3,2,metacritic,2020-10-15,69.0
+REC00343,BRBA-S3E3,Breaking Bad,3,3,imdb,2019-11-30,8.3
+REC00344,BRBA-S3E3,Breaking Bad,3,3,rotten_tomatoes,2019-11-30,71.0
+REC00345,BRBA-S3E3,Breaking Bad,3,3,metacritic,2019-11-30,63.0
+REC00346,BRBA-S3E4,Breaking Bad,3,4,imdb,2022-06-04,6.5
+REC00347,BRBA-S3E4,Breaking Bad,3,4,rotten_tomatoes,2022-06-04,57.0
+REC00348,BRBA-S3E4,Breaking Bad,3,4,metacritic,2022-06-04,85.0
+REC00349,BRBA-S3E5,Breaking Bad,3,5,imdb,2018-10-12,7.4
+REC00350,BRBA-S3E5,Breaking Bad,3,5,rotten_tomatoes,2018-10-12,60.0
+REC00351,BRBA-S3E5,Breaking Bad,3,5,metacritic,2018-10-12,93.0
+REC00352,BRBA-S3E6,Breaking Bad,3,6,imdb,2021-10-16,8.3
+REC00353,BRBA-S3E6,Breaking Bad,3,6,rotten_tomatoes,2021-10-16,56.0
+REC00354,BRBA-S3E6,Breaking Bad,3,6,metacritic,2021-10-16,86.0
+REC00355,BRBA-S3E7,Breaking Bad,3,7,imdb,2019-08-22,8.1
+REC00356,BRBA-S3E7,Breaking Bad,3,7,rotten_tomatoes,2019-08-22,74.0
+REC00357,BRBA-S3E7,Breaking Bad,3,7,metacritic,2019-08-22,77.0
+REC00358,BRBA-S3E8,Breaking Bad,3,8,imdb,2019-09-12,9.4
+REC00359,BRBA-S3E8,Breaking Bad,3,8,rotten_tomatoes,2019-09-12,71.0
+REC00360,BRBA-S3E8,Breaking Bad,3,8,metacritic,2019-09-12,82.0
+REC00361,PARKS-S1E1,Parks and Recreation,1,1,imdb,2023-05-16,8.2
+REC00362,PARKS-S1E1,Parks and Recreation,1,1,rotten_tomatoes,2023-05-16,71.0
+REC00363,PARKS-S1E1,Parks and Recreation,1,1,metacritic,2023-05-16,70.0
+REC00364,PARKS-S1E2,Parks and Recreation,1,2,imdb,2018-07-22,8.6
+REC00365,PARKS-S1E2,Parks and Recreation,1,2,rotten_tomatoes,2018-07-22,82.0
+REC00366,PARKS-S1E2,Parks and Recreation,1,2,metacritic,2018-07-22,75.0
+REC00367,PARKS-S1E3,Parks and Recreation,1,3,imdb,2020-10-30,7.8
+REC00368,PARKS-S1E3,Parks and Recreation,1,3,rotten_tomatoes,2020-10-30,65.0
+REC00369,PARKS-S1E3,Parks and Recreation,1,3,metacritic,2020-10-30,89.0
+REC00370,PARKS-S1E4,Parks and Recreation,1,4,imdb,2019-07-26,6.1
+REC00371,PARKS-S1E4,Parks and Recreation,1,4,rotten_tomatoes,2019-07-26,83.0
+REC00372,PARKS-S1E4,Parks and Recreation,1,4,metacritic,2019-07-26,
+REC00373,PARKS-S1E5,Parks and Recreation,1,5,imdb,2023-11-23,6.8
+REC00374,PARKS-S1E5,Parks and Recreation,1,5,rotten_tomatoes,2023-11-23,80.0
+REC00375,PARKS-S1E5,Parks and Recreation,1,5,metacritic,2023-11-23,80.0
+REC00376,PARKS-S1E6,Parks and Recreation,1,6,imdb,2023-05-17,6.3
+REC00377,PARKS-S1E6,Parks and Recreation,1,6,rotten_tomatoes,2023-05-17,76.0
+REC00378,PARKS-S1E6,Parks and Recreation,1,6,metacritic,2023-05-17,62.0
+REC00379,PARKS-S1E7,Parks and Recreation,1,7,imdb,2018-04-26,8.8
+REC00380,PARKS-S1E7,Parks and Recreation,1,7,rotten_tomatoes,2018-04-26,69.0
+REC00381,PARKS-S1E7,Parks and Recreation,1,7,metacritic,2018-04-26,69.0
+REC00382,PARKS-S1E8,Parks and Recreation,1,8,imdb,2020-05-18,6.8
+REC00383,PARKS-S1E8,Parks and Recreation,1,8,rotten_tomatoes,2020-05-18,57.0
+REC00384,PARKS-S1E8,Parks and Recreation,1,8,metacritic,2020-05-18,63.0
+REC00385,PARKS-S2E1,Parks and Recreation,2,1,imdb,2022-02-07,6.5
+REC00386,PARKS-S2E1,Parks and Recreation,2,1,rotten_tomatoes,2022-02-07,82.0
+REC00387,PARKS-S2E1,Parks and Recreation,2,1,metacritic,2022-02-07,91.0
+REC00388,PARKS-S2E2,Parks and Recreation,2,2,imdb,2019-09-23,68.0
+REC00389,PARKS-S2E2,Parks and Recreation,2,2,rotten_tomatoes,2019-09-23,60.0
+REC00390,PARKS-S2E2,Parks and Recreation,2,2,metacritic,2019-09-23,78.0
+REC00391,PARKS-S2E3,Parks and Recreation,2,3,imdb,2022-02-19,6.4
+REC00392,PARKS-S2E3,Parks and Recreation,2,3,rotten_tomatoes,2022-02-19,72.0
+REC00393,PARKS-S2E3,Parks and Recreation,2,3,metacritic,2022-02-19,88.0
+REC00394,PARKS-S2E4,Parks and Recreation,2,4,imdb,2022-10-12,6.7
+REC00395,PARKS-S2E4,Parks and Recreation,2,4,rotten_tomatoes,2022-10-12,85.0
+REC00396,PARKS-S2E4,Parks and Recreation,2,4,metacritic,2022-10-12,78.0
+REC00397,PARKS-S2E5,Parks and Recreation,2,5,imdb,2023-06-08,6.3
+REC00398,PARKS-S2E5,Parks and Recreation,2,5,rotten_tomatoes,2023-06-08,65.0
+REC00399,PARKS-S2E5,Parks and Recreation,2,5,metacritic,2023-06-08,81.0
+REC00400,PARKS-S2E6,Parks and Recreation,2,6,imdb,2023-05-08,6.3
+REC00401,PARKS-S2E6,Parks and Recreation,2,6,rotten_tomatoes,2023-05-08,64.0
+REC00402,PARKS-S2E6,Parks and Recreation,2,6,metacritic,2023-05-08,80.0
+REC00403,PARKS-S2E7,Parks and Recreation,2,7,imdb,2021-06-15,8.9
+REC00404,PARKS-S2E7,Parks and Recreation,2,7,rotten_tomatoes,2021-06-15,77.0
+REC00405,PARKS-S2E7,Parks and Recreation,2,7,metacritic,2021-06-15,84.0
+REC00406,PARKS-S2E8,Parks and Recreation,2,8,imdb,2019-07-23,6.0
+REC00407,PARKS-S2E8,Parks and Recreation,2,8,rotten_tomatoes,2019-07-23,68.0
+REC00408,PARKS-S2E8,Parks and Recreation,2,8,metacritic,2019-07-23,69.0
+REC00409,PARKS-S3E1,Parks and Recreation,3,1,imdb,2023-12-29,9.2
+REC00410,PARKS-S3E1,Parks and Recreation,3,1,rotten_tomatoes,2023-12-29,70.0
+REC00411,PARKS-S3E1,Parks and Recreation,3,1,metacritic,2023-12-29,89.0
+REC00412,PARKS-S3E2,Parks and Recreation,3,2,imdb,2021-02-04,6.1
+REC00413,PARKS-S3E2,Parks and Recreation,3,2,rotten_tomatoes,2021-02-04,76.0
+REC00414,PARKS-S3E2,Parks and Recreation,3,2,metacritic,2021-02-04,93.0
+REC00415,PARKS-S3E3,Parks and Recreation,3,3,imdb,2019-07-25,8.7
+REC00416,PARKS-S3E3,Parks and Recreation,3,3,rotten_tomatoes,2019-07-25,80.0
+REC00417,PARKS-S3E3,Parks and Recreation,3,3,metacritic,2019-07-25,63.0
+REC00418,PARKS-S3E4,Parks and Recreation,3,4,imdb,2018-02-11,9.2
+REC00419,PARKS-S3E4,Parks and Recreation,3,4,rotten_tomatoes,2018-02-11,58.0
+REC00420,PARKS-S3E4,Parks and Recreation,3,4,metacritic,2018-02-11,96.0
+REC00421,PARKS-S3E5,Parks and Recreation,3,5,imdb,2022-04-16,8.7
+REC00422,PARKS-S3E5,Parks and Recreation,3,5,rotten_tomatoes,2022-04-16,86.0
+REC00423,PARKS-S3E5,Parks and Recreation,3,5,metacritic,2022-04-16,78.0
+REC00424,PARKS-S3E6,Parks and Recreation,3,6,imdb,2019-05-31,6.6
+REC00425,PARKS-S3E6,Parks and Recreation,3,6,rotten_tomatoes,2019-05-31,70.0
+REC00426,PARKS-S3E6,Parks and Recreation,3,6,metacritic,2019-05-31,84.0
+REC00427,PARKS-S3E7,Parks and Recreation,3,7,imdb,2018-04-07,8.3
+REC00428,PARKS-S3E7,Parks and Recreation,3,7,rotten_tomatoes,2018-04-07,72.0
+REC00429,PARKS-S3E7,Parks and Recreation,3,7,metacritic,2018-04-07,89.0
+REC00430,PARKS-S3E8,Parks and Recreation,3,8,imdb,2020-12-19,6.2
+REC00431,PARKS-S3E8,Parks and Recreation,3,8,rotten_tomatoes,2020-12-19,67.0
+REC00432,PARKS-S3E8,Parks and Recreation,3,8,metacritic,2020-12-19,59.0
+REC00433,PARKS-S2E5,Parks and Recreation,2,5,imdb,2023-06-08,6.3
+REC00434,B99-S2E8,Brooklyn Nine-Nine,2,8,rotten_tomatoes,2019-09-11,75.0
+REC00435,BRBA-S2E8,Breaking Bad,2,8,imdb,2018-05-23,8.4
+REC00436,OFC-S1E5,The Office,1,5,metacritic,2019-11-28,64.0
+REC00437,B99-S3E3,Brooklyn Nine-Nine,3,3,rotten_tomatoes,2023-04-09,93.0
+REC00438,PARKS-S1E6,Parks and Recreation,1,6,metacritic,2023-05-17,59.0
+REC00439,GOT-S2E5,Game of Thrones,2,5,rotten_tomatoes,2021-07-26,87.0
+REC00440,OFC-S3E3,The Office,3,3,imdb,2023-10-30,9.4
+REC00441,GOT-S3E1,Game of Thrones,3,1,imdb,2018-04-20,10.2
+REC00442,B99-S2E1,Brooklyn Nine-Nine,2,1,rotten_tomatoes,2019-05-27,84.0
+REC00443,B99-S3E8,Brooklyn Nine-Nine,3,8,metacritic,2018-10-18,72.0
+REC00444,BRBA-S3E8,Breaking Bad,3,8,rotten_tomatoes,2019-09-12,71.0
